@@ -1,2 +1,2 @@
-# node-ts-starter
-Simple starter template for Node with Typescript
+# bitcoin-from-scratch
+Reproduce - A from-scratch tour of Bitcoin in Python - but in Typescript
